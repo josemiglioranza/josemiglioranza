@@ -4,7 +4,6 @@
 </p>
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/fo-real.svg)
 ![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
 ![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)  
