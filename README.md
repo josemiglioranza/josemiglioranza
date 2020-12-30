@@ -1,9 +1,2 @@
-![](https://github.com/josemiglioranza/Arquivos/blob/master/capaGithub.png)
-<p align="center">
-  <b>--------------------------------------- Fique à vontade para olhar meu repositório! :grin: --------------------------------------- </b>
-</p>
-
-![](https://forthebadge.com/images/badges/built-with-love.svg)
-![](https://forthebadge.com/images/badges/makes-people-smile.svg)
-![](https://forthebadge.com/images/badges/check-it-out.svg)
-![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)  
+![](https://github.com/josemiglioranza/josemiglioranza/blob/master/Bem-vindo(a)!.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josemiglioranza&show_icons=true&theme=radical)
